@@ -28,7 +28,7 @@ Then, to add to another class (React component here):
 
 ```js
 import React from 'react';
-import mixin from '@thss-anthros/mixinså';
+import mixin from '@thss-anthros/mixins';
 
 class Page extends mixin(React.Component, [FetchPageMixin, StatusPageMixin]) {
   // [...]
@@ -37,7 +37,7 @@ class Page extends mixin(React.Component, [FetchPageMixin, StatusPageMixin]) {
 
 ## NOTES
 
-IMPORTANT: requires ES6, will not work with ES5
+IMPORTANT: requires ES6, will not work with ES5.
 
 
 
