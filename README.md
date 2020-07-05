@@ -2,6 +2,14 @@
 
 Util for class-level JavaScript mixins
 
+## Installation
+
+```bash
+yarn add https://github.com/thss-anthros/thss-js-mixins.git # install latest
+yarn add https://github.com/thss-anthros/thss-js-mixins.git#v1.0 # install version 1.0
+yarn remove @thss/js-mixins # uninstall
+```
+
 ## Usage
 
 Declare your mixins like so:
