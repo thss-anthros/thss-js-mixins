@@ -1,0 +1,13 @@
+{
+  "name": "js-mixins",
+  "version": "1.0.0",
+  "main": "src/mixin.js",
+  "repository": {
+    "url": "https://github.com/thss-anthros/thss-js-mixins.git",
+    "type": "git"
+  },
+  "author": "Niccolo Brogi <nkkollaw@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/thss-anthros/thss-js-mixins/",
+  "bugs": "https://github.com/thss-anthros/thss-js-mixins/issues"
+}
