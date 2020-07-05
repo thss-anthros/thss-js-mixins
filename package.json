@@ -1,5 +1,5 @@
 {
-  "name": "@thss/js-mixins",
+  "name": "@thss-anthros/mixins",
   "version": "1.0.0",
   "main": "src/mixin.js",
   "repository": {

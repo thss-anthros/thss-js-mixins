@@ -1,4 +1,4 @@
-# @thss/js-mixins
+# @thss-anthros/mixins
 
 Util for class-level JavaScript mixins
 
@@ -7,7 +7,7 @@ Util for class-level JavaScript mixins
 ```bash
 yarn add https://github.com/thss-anthros/thss-js-mixins.git # install latest
 yarn add https://github.com/thss-anthros/thss-js-mixins.git#v1.0 # install version 1.0
-yarn remove @thss/js-mixins # uninstall
+yarn remove @thss-anthros/mixins # uninstall
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ Then, to add to another class (React component here):
 
 ```js
 import React from 'react';
-import mixin from '@thss/mixins';
+import mixin from '@thss-anthros/mixinså';
 
 class Page extends mixin(React.Component, [FetchPageMixin, StatusPageMixin]) {
   // [...]
