@@ -1,5 +1,5 @@
 {
-  "name": "js-mixins",
+  "name": "@thss/js-mixins",
   "version": "1.0.0",
   "main": "src/mixin.js",
   "repository": {
